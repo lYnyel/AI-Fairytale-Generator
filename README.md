@@ -12,7 +12,7 @@ AI Models (Hugging Face SDK):
 
 1. Клонирование репозитория
 bash
-git clone [https://github.com/ВАШ_НИК/ai-fairytale-generator.git](https://github.com/ВАШ_НИК/ai-fairytale-generator.git)](https://github.com/lYnyel/AI-Fairytale-Generator)
+git clone(https://github.com/lYnyel/AI-Fairytale-Generator)
 cd ai-fairytale-generator
 
 2. Настройка бэкенда
